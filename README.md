@@ -2,7 +2,7 @@
 
 A practical guide to mastering Classification algorithms for Machine learning
 
-This is the repository for [A practical guide to mastering Classification algorithms for Machine learning
+This is the repository for [Mastering Classification Algorithms for Machine Learning
 ](https://bpbonline.com/products/mastering-classification-algorithms-for-machine-learning?variant=42737852547272),published by BPB Publications. 
 
 ## About the Book
